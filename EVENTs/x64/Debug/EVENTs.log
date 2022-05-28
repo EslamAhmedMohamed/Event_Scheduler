@@ -1,0 +1,5 @@
+﻿  Event.cpp
+  Source.cpp
+C:\Users\go\Desktop\final project\EVENTs\EVENTs\Source.cpp(9,7): warning C4101: 'Continue': unreferenced local variable
+  Generating Code...
+  EVENTs.vcxproj -> C:\Users\go\Desktop\final project\EVENTs\x64\Debug\EVENTs.exe
